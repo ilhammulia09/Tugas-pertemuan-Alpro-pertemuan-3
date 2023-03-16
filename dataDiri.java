@@ -9,11 +9,11 @@ class BiodataMahasiswa {
     System.out.println();
     System.out.println("# Data Mahasiswa #");
     System.out.println("==================");
-    System.out.println("Nama: Rizki Rizal Mualim");
-    System.out.println("NIM: 2022310023");
+    System.out.println("Nama: Ilham Mulia Aqsa");
+    System.out.println("NIM: 2022310008");
     System.out.println("Fakultas: FI22B");
     System.out.println("Jurusan: Teknik Informatika" );
     System.out.println("Kota Asal: Bekasi");
-    System.out.println("Alamat: VGH Blok AS 8 No.12");
+    System.out.println("Alamat: VGH Blok AS 7 No.18");
   }
 }
